@@ -1,9 +1,11 @@
+
 # Unity_Moph_Mesh_Easy
 Morph Any mesh to any mesh using Unity.
 Disclaimer: works only with Mesh Renderer. Skinned Mesh Rendrer is not yet supported.
 
 Video:
-![](https://youtu.be/MXR9JjYFerw)
+
+[![Shakify Unity](https://img.youtube.com/vi/MXR9JjYFerw/0.jpg)](https://youtu.be/MXR9JjYFerw)
 
 Usage:
 1- Put Morpher script on any gameobject in the scene.
@@ -14,4 +16,6 @@ Usage:
 
 Demo is included with Slider Animator script that animates the slider value.
 
-![](https://www.buymeacoffee.com/mahmoudcogs)
+Buy me a cofee: https://www.buymeacoffee.com/mahmoudcogs
+
+
