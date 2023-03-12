@@ -1,5 +1,5 @@
 
-# Unity_Moph_Mesh_Easy
+# Unity_Morph_Mesh_Easy
 Morph Any mesh to any mesh using Unity.
 Disclaimer: works only with Mesh Renderer. Skinned Mesh Rendrer is not yet supported.
 
