@@ -2,6 +2,9 @@
 Morph Any mesh to any mesh using Unity.
 Disclaimer: works only with Mesh Renderer. Skinned Mesh Rendrer is not yet supported.
 
+Video:
+https://youtu.be/MXR9JjYFerw
+
 Usage:
 1- Put Morpher script on any gameobject in the scene.
 2- Assign old and new meshes.
