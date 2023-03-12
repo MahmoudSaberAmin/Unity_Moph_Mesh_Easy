@@ -16,6 +16,6 @@ Usage:
 
 Demo is included with Slider Animator script that animates the slider value.
 
-Buy me a cofee: https://www.buymeacoffee.com/mahmoudcogs
+Buy me cofee: https://www.buymeacoffee.com/mahmoudcogs
 
 
