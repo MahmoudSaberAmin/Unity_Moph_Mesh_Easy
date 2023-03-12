@@ -3,7 +3,7 @@ Morph Any mesh to any mesh using Unity.
 Disclaimer: works only with Mesh Renderer. Skinned Mesh Rendrer is not yet supported.
 
 Video:
-[https://youtu.be/MXR9JjYFerw]
+![](https://youtu.be/MXR9JjYFerw)
 
 Usage:
 1- Put Morpher script on any gameobject in the scene.
@@ -14,4 +14,4 @@ Usage:
 
 Demo is included with Slider Animator script that animates the slider value.
 
-[https://www.buymeacoffee.com/mahmoudcogs]
+![](https://www.buymeacoffee.com/mahmoudcogs)
